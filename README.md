@@ -8,6 +8,7 @@ I have great knowledge of C/C++, JavaScript, HTML/CSS, MERN. I have an excellent
 4. Database
 5. Assembly Language
 6. Operating Systems
+
 I have worked with Linux as well and know a great deal about that as well.
 Check out my University and side projects about programming.
 # Contact
